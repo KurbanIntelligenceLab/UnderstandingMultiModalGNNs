@@ -4,7 +4,7 @@ This repository provides a unified framework for benchmarking and understanding 
 
 **Spotlight Paper at CVPR 2025 MM4Mat Workshop**
 
-For full details, see our paper: [Understanding the Capabilities of Molecular Graph Neural Networks in Materials Science Through Multimodal Learning and Physical Context Encoding](https://arxiv.org/abs/2505.12137) ([arXiv:2505.12137](https://arxiv.org/abs/2505.12137)) by Can Polat, Hasan Kurban, Erchin Serpedin, and Mustafa Kurban. Presented as a Spotlight Paper at the [Multimodal Learning for Materials Science (MM4Mat) Workshop, CVPR 2025](https://sites.google.com/view/mm4mat).
+For full details, see: [Understanding the Capabilities of Molecular Graph Neural Networks in Materials Science Through Multimodal Learning and Physical Context Encoding](https://arxiv.org/abs/2505.12137) ([arXiv:2505.12137](https://arxiv.org/abs/2505.12137)) by Can Polat, Hasan Kurban, Erchin Serpedin, and Mustafa Kurban. Presented as a Spotlight Paper at the [Multimodal Learning for Materials Science (MM4Mat) Workshop, CVPR 2025](https://sites.google.com/view/mm4mat).
 
 ## Dataset
 
